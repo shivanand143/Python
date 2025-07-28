@@ -123,6 +123,4 @@ if __name__ == '__main__':
 * It helps write cleaner and more readable Python code for input processing tasks.
 * This is especially powerful in competitive programming and real-world data parsing.
 
----
 
-Let me know if you need a version in Kannada or a cheat sheet!
