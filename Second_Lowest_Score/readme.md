@@ -102,6 +102,3 @@ Harry
   * Student grade reports
   * Leaderboards
 
----
-
-Let me know if you want a version in Kannada or PDF format!
